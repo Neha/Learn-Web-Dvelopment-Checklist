@@ -1,38 +1,55 @@
-## HTML
+## [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [ ] HTML main tags 
-  - [ ] `<html>` 
-  - [ ] `<head>` 
-  - [ ] `<body>` 
-  - [ ] `<script>`
-- [ ] HTML layout tags
-  - [ ] `<main>`
-  - [ ] `<aside>`
-  - [ ] `<nav>`
-  - [ ] `<header>`
-  - [ ] `<footer>`
-- [ ] HTML Elements and their attributes:
-  - [ ] Documents `<!DOCTYPE>`
-  - [ ] Headings `<h1>, <h2>`
-  - [ ] Paragraphs `<p>`
-  - [ ] Lists `<li>, <ul>, <dl>`
-  - [ ] Links `<a>`
-  - [ ] Images `<img>`
-  - [ ] Semantic HTML `<article>, <address>, <navigation>`
-  - [ ] Tables `<table>`
-  - [ ] Dialogs/Modal popups `<dialog>`
-  - [ ] Accordion `<details>, <summary>`
-- [ ] HTML Formatting
-  - [ ] `<b>` - Bold text
-  - [ ] `<strong>` - Important text
-  - [ ] `<small>` - Smaller text
-  - [ ] `<i>` - Italic text
-  - [ ] `<em>` - Emphasized text
-  - [ ] `<sub>` - Subscript text
-  - [ ] `<sup>` - superscript
-- [ ] HTML Comments `<!-- -->`
-- [ ] HTML style attribute
-- [ ] HTML form elements
+  - [ ] `<html>` [Link](https://www.w3docs.com/learn-html/html-html-tag.html)
+  - [ ] `<head>` [Link](https://www.w3docs.com/learn-html/html-head-tag.html)
+  - [ ] `<body>` [Link](https://www.w3docs.com/learn-html/html-body-tag.html)
+  - [ ] `<script>` [Link](https://www.w3docs.com/learn-html/html-script-tag.html)
+  - [ ] `<style>` [Link](https://www.w3docs.com/learn-html/html-style-tag.html)
+  - [ ] `<link>` [Link](https://www.w3docs.com/learn-html/html-link-tag.html)
+  - [ ] `<meta>` [Link](https://www.w3docs.com/learn-html/html-meta-tag.html)
+  
+- [ ] HTML5 Structural / Semantic elements
+  - [ ] `<article>` [Link](https://www.w3docs.com/learn-html/html-article-tag.html)
+  - [ ] `<address>` [Link](https://www.w3docs.com/learn-html/html-address-tag.html)
+  - [ ] `<aside>` [Link](https://www.w3docs.com/learn-html/html-aside-tag.html)
+  - [ ] `<dialog>` [Link](https://www.w3docs.com/learn-html/html-dialog-tag.html)
+  - [ ] `<details>` [Link](https://www.w3docs.com/learn-html/html-details-tag.html)
+  - [ ] `<figure>` [Link](https://www.w3docs.com/learn-html/html-figure-tag.html)
+  - [ ] `<main>` [Link](https://www.w3docs.com/learn-html/html-main-tag.html)
+  - [ ] `<nav>` [Link](https://www.w3docs.com/learn-html/html-nav-tag.html)
+  - [ ] `<header>` [Link](https://www.w3docs.com/learn-html/html-header-tag.html)
+  - [ ] `<footer>` [Link](https://www.w3docs.com/learn-html/html-footer-tag.html)
+  - [ ] `<summary>` [Link](https://www.w3docs.com/learn-html/html-summary-tag.html)
 
+- [ ] HTML Elements and their attributes
+  - [ ] Documents `<!DOCTYPE>` [Link](https://www.w3docs.com/learn-html/html-doctype-declaration.html)
+  - [ ] Headings `<h1> - <h6>` [Link](https://www.w3docs.com/learn-html/html-h1-h6-tags.html)
+  - [ ] Paragraph `<p>` [Link](https://www.w3docs.com/learn-html/html-p-tag.html)
+  - [ ] Lists `<li>, <ul>, <dl>` [Link](https://www.w3docs.com/learn-html/html-lists.html)
+  - [ ] Links `<a>` [Link](https://www.w3docs.com/learn-html/html-a-tag.html)
+  - [ ] Images `<img>` [Link](https://www.w3docs.com/learn-html/html-images.html)
+  - [ ] Table `<table>`[Link](https://www.w3docs.com/learn-html/html-table.html)
+
+- [ ] HTML Formatting
+  - [ ] `<b>` - Bold text [Link](https://www.w3docs.com/learn-html/html-b-tag.html)
+  - [ ] `<strong>` - Important text [Link](https://www.w3docs.com/learn-html/html-strong-tag.html)
+  - [ ] `<small>` - Smaller text
+  - [ ] `<i>` - Italic text [Link](https://www.w3docs.com/learn-html/html-i-tag.html)
+  - [ ] `<em>` - Emphasized text [Link](https://www.w3docs.com/learn-html/html-em-tag.html)
+  - [ ] `<sub>` - Subscript [Link](https://www.w3docs.com/learn-html/html-sub-tag.html)
+  - [ ] `<sup>` - superscript [Link](https://www.w3docs.com/learn-html/html-sup-tag.html)
+  - [ ] `<pre>` - preformatted text [Link](https://www.w3docs.com/learn-html/html-pre-tag.html)
+- [ ] HTML Comments `<!-- -->` [Link](https://www.w3docs.com/learn-html/html-comments.html)
+- [ ] HTML forms [Link](https://www.w3docs.com/learn-html/html-form-tag.html)
+    - [ ] `<input>` [Link](https://www.w3docs.com/learn-html/html-input-tag.html)
+  - [ ] `<textarea>` [Link](https://www.w3docs.com/learn-html/html-textarea-tag.html)
+  - [ ] `<button>` [Link](https://www.w3docs.com/learn-html/html-button-tag.html)
+  - [ ] `<select>` [Link](https://www.w3docs.com/learn-html/html-select-tag.html)
+  - [ ] `<option>` [Link](https://www.w3docs.com/learn-html/html-option-tag.html)
+  - [ ] `<fieldset>` [Link](https://www.w3docs.com/learn-html/html-fieldset-tag.html)
+  - [ ] `<label>` [Link](https://www.w3docs.com/learn-html/html-label-tag.html)
+  - [ ] `<legend>` [Link](https://www.w3docs.com/learn-html/html-legend-tag.html)
+    
 
 ## CSS
    - [ ] Adding a CSS stylesheet to an HTML page using `<link>`
@@ -80,7 +97,7 @@
 #### Step up CSS 
    - [ ] animations 
      - [ ] transition property
-     - [ ] @keyframes
+     - [ ] `@keyframes`
      - [ ] animation property - `name`, `duration`, `timing-function`, `delay`, `iteration-count`, `direction` 
    - [ ] flexbox 
    - [ ] grid 
@@ -90,14 +107,30 @@
 ## JavaScript
 
 #### Fundamentals
-   - [ ] Adding JavaScript to an HTML page using `<script>`
-   - [ ] `alert`
-   - [ ] `console.log`
-   - [ ] Comments
-   - [ ] Variables - `var`, `let`, `const`
-   - [ ] Data types - String, Boolean, Number, null, undefined
-   - [ ] `typeof` operator
-   - [ ] String functions - concatenation - template strings - `.length` - `.toUpperCase, .toLowerCase` - `subString` - `split`,
+
+    - [ ] JavaScript introduction [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#what_is_javascript)
+   - [ ] Adding JavaScript to an HTML page using `<script>` [Link] (https://www.digitalocean.com/community/tutorials/html-script-tag)
+   - [ ] `console.log` [Link](https://www.freecodecamp.org/news/javascript-console-log-example-how-to-print-to-the-console-in-js/)
+   - [ ] Comments [Link](https://stackabuse.com/commenting-code-in-javascript-types-and-best-practices/)
+   - [ ] Variables [Beginner level](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference) [Advanced level](https://egghead.io/lessons/javascript-working-with-var-let-const-and-block-scopes?af=5buvlr)
+        - [ ] `var`
+        - [ ] `let` [Link](https://egghead.io/lessons/javascript-the-let-keyword-in-es6?af=5buvlr)
+        - [ ] `const` [Link](https://egghead.io/lessons/javascript-const-declarations-in-es6-es2015)
+   - [ ] Data types [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+        - [ ] String 
+        - [ ] Boolean
+        - [ ] Number 
+        - [ ] null 
+        - [ ] undefined
+   - [ ] `typeof` operator [Link](https://www.freecodecamp.org/news/javascript-data-types-typeof-explained/)
+   - [ ] String functions 
+        - [ ] concatenation 
+        - [ ] template strings 
+        - [ ] `length`
+        - [ ] `toUpperCase`
+        - [ ] `toLowerCase`
+        - [ ] `subString`
+        - [ ] `split`
    - [ ] Operators
         - [ ] `+`
         - [ ] `-`
@@ -163,6 +196,8 @@
    - [ ] ES6 Classes
      - [ ] `constructor()`
    - [ ] `setTimeout`
+   - [ ] `alert` [Link](https://www.educative.io/edpresso/how-to-use-the-alert-method-in-javascript)
+
 
 #### Web page and JavaScript
    - [ ] `document.getElementById`
@@ -226,7 +261,9 @@
    1. [ ] What is web hosting?
    1. [ ] Browser Dev tools
    1. [ ] CORS and how to get past CORS?
-   1. [ ] ARIA - Accessibility
+   1. [ ] ARIA - [What is accessibility?](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
+       - [ ] [Free Beginner Course by Google](https://www.udacity.com/course/web-accessibility--ud891)
+       - [ ] [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
 
 ## Step Up
 #### Front end framework: 
